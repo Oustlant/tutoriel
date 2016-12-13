@@ -17,3 +17,4 @@ www.univ-angers.fr/fr/formation/anti-plagiat/c-est-quoi-le-plagiat.html
 - Un indicateur de la qualité de vos travaux (sélection des sources)
 - Permettre aux lecteurs de vérifier l’exactitude des données rapportées ou du texte cité
 
+[Nom de video]( https://vimeo.com/195418312 ){: .cours_video }
